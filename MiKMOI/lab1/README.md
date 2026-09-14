@@ -16,7 +16,7 @@
 
 ## Программа для решения
 
-Ссылка на код: [`task1.py`](VSU//MiKMOI/lab1/task1.py)
+Ссылка на код: [`task1.py`](task1.py)
 
 ```py
 import cv2
