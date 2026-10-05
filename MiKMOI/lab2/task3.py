@@ -39,7 +39,6 @@ _, sobel_thresh = cv2.threshold(
     sobel_mag_u8, threshold_value, 255, cv2.THRESH_BINARY
 )
 
-
 # Простой градиент с пороговым преобразованием
 # Простые ядра для поиска разностей соседних пикселей
 simple_kernel_x = np.array([[-1, 1]], dtype=np.float32)
